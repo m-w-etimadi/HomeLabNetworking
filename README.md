@@ -100,7 +100,7 @@ Config on the upstream router (LAB-R1)<br/>
 <br />
 <p align="center">
 On the LAB-DSW1: <br/>
-<img src="https://i.imgur.com/aN6Yuzc.png" height="80%" width="80%" alt="Disk Sanitization Steps" />
+<img src="https://i.imgur.com/qbrbW8h.png" height="80%" width="80%" alt="Disk Sanitization Steps" />
 <br />
 
 <div>
