@@ -186,7 +186,7 @@ Tuned off wireless NIC<br/>
 
 <p align="center">
   Wired NIC is taken IP/default gateway/dns <br/>
-<img src="https://i.imgur.com/7lehsmg.png" height="80%" width="80%" alt="Disk Sanitization Steps" />
+<img src="https://i.imgur.com/Z4Ew6b8.png" height="80%" width="80%" alt="Disk Sanitization Steps" />
 <br />
 <br />
 
